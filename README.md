@@ -8,8 +8,8 @@
 4. Mova todas as notas fiscais .xml para a pasta NOTAS FISCAIS.
 5. Clique em iniciar e em alguns segundos todos os dados que foram previamentes configurados como importantes foram extraídos consolidados no arquivo "CRUZAMENTO NF.xls".
 
-* Software Open Source
-* Fácil para ingerir novas features para formatos suportados e tratamentos de dados.
+### -> Software Open Source
+### -> Fácil para ingerir novas features para formatos suportados e tratamentos de dados.
 
 ## -> Licensa MIT.
 
